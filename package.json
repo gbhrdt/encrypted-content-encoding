@@ -13,7 +13,7 @@
     "url": "https://github.com/martinthomson/encrypted-content-encoding.git"
   },
   "license": "MIT",
-  "main": "./ece.js",
+  "main": "./nodejs/ece.js",
   "scripts": { "test": "node ./test.js" },
   "engines" : { "node" : ">=4.0.0" },
   "dependencies": {
